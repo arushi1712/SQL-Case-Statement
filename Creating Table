@@ -1,4 +1,4 @@
---creating tabvle
+--creating table
 CREATE TABLE basic_pays (
 	employee_id int,
 	fiscal_year INT,
